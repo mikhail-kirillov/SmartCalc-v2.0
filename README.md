@@ -83,7 +83,7 @@ To build and install the program, use CMake. Ensure that you have CMake version 
 
     ```sh
     git clone git@github.com:mikhail-kirillov/SmartCalc-v2.0.git
-    cd SmartCalc
+    cd SmartCalc-v2.0
     ```
 
 2. **Install and run all targets**:
